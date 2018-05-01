@@ -1,0 +1,5 @@
+{
+    "feature-switch": {
+        "has-feature": { "hasAccess": true }
+    }
+}
